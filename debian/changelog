@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-derekparker-trie (0.0~git20200317.1fdf38b-2) unstable; urgency=medium
+
+  * Source-only upload for testing migration
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 06 Nov 2021 16:42:49 +0800
+
+golang-github-derekparker-trie (0.0~git20200317.1fdf38b-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Shengjing Zhu <zhsj@debian.org>  Wed, 13 Oct 2021 22:27:44 +0800
